@@ -66,13 +66,13 @@ Table name used in the project:
 
 Screenshots of the results are available in the images folder:
 
-\- overall\_attrition.png
+image/- overall\_attrition.png
 
-\- department\_attrition.png
+image/- department\_attrition.png
 
-\- gender\_attrition.png
+image/- gender\_attrition.png
 
-\- table\_preview.png
+image/- table\_preview.png
 
 
 
@@ -91,6 +91,7 @@ Screenshots of the results are available in the images folder:
 Shreya Kumari
 
 BCA Student
+
 
 
 

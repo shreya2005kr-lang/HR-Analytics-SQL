@@ -84,6 +84,21 @@ Screenshots of the results are available in the images folder:
 
 \- Male employees have slightly higher attrition compared to female employees.
 
+## 📊 Project Screenshots
+
+### Overall Attrition
+![Overall Attrition](images/_overall_attrition.png)
+
+### Department wise Attrition
+![Department Attrition](images/_department_attrition.png)
+
+### Gender wise Attrition
+![Gender Attrition](images/_gender_attrition.png)
+
+### Table Preview
+![Table Preview](images/_table_preview.png)
+
+
 
 
 \## Author
@@ -91,6 +106,7 @@ Screenshots of the results are available in the images folder:
 Shreya Kumari
 
 BCA Student
+
 
 
 
